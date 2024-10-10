@@ -1,24 +1,24 @@
 # FastAPI and Pydantic for API development and validation
-fastapi==0.100.0
-pydantic==1.10.2
+fastapi
+pydantic
 
 # Uvicorn for ASGI server
-uvicorn==0.22.0
+uvicorn
 
 # sumy for text summarization (LexRank)
-sumy==0.8.1
+sumy
 
 # YouTube transcript API for extracting transcripts from YouTube videos
-youtube-transcript-api==0.5.0
+youtube-transcript-api
 
 # Regular expressions for string processing
-regex==2024.10.9  # regex is often already included with Python, but you can ensure it's included
+regex  # regex is often already included with Python, but you can ensure it's included
 
 # PyMongo for MongoDB interactions
-pymongo==4.7.0
+pymongo
 
 # Python-dotenv for environment variable loading
-python-dotenv==1.0.0
+python-dotenv
 
 # bson for MongoDB ObjectId (comes with PyMongo but added for completeness)
-bson==0.5.10
+bson
