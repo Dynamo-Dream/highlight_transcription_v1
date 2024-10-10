@@ -20,5 +20,3 @@ pymongo
 # Python-dotenv for environment variable loading
 python-dotenv
 
-# bson for MongoDB ObjectId (comes with PyMongo but added for completeness)
-bson
